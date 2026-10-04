@@ -1,4 +1,6 @@
 ## Hi there 👋
+This Writer Boy Games.
+My journey? It's a long story...
 
 <!--
 **WriterBoyGames/WriterBoyGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
